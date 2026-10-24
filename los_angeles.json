@@ -1,0 +1,406 @@
+{
+  "id": "los_angeles",
+  "version": 1,
+  "songs": [
+    {
+      "id": "1546390051",
+      "title": "Good Days",
+      "artist": "SZA"
+    },
+    {
+      "id": "1146195714",
+      "title": "Pink + White",
+      "artist": "Frank Ocean"
+    },
+    {
+      "id": "999128083",
+      "title": "Girl (feat. KAYTRANADA)",
+      "artist": "The Internet"
+    },
+    {
+      "id": "1074099194",
+      "title": "Come Down",
+      "artist": "Anderson .Paak"
+    },
+    {
+      "id": "1631909584",
+      "title": "Bad Habit",
+      "artist": "Steve Lacy"
+    },
+    {
+      "id": "1541731262",
+      "title": "telepatía",
+      "artist": "Kali Uchis"
+    },
+    {
+      "id": "1771719595",
+      "title": "Redbone",
+      "artist": "Childish Gambino"
+    },
+    {
+      "id": "1794645087",
+      "title": "Snooze",
+      "artist": "SZA"
+    },
+    {
+      "id": "1739659142",
+      "title": "BIRDS OF A FEATHER",
+      "artist": "Billie Eilish"
+    },
+    {
+      "id": "1445949267",
+      "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+      "artist": "Post Malone & Swae Lee"
+    },
+    {
+      "id": "1254572572",
+      "title": "See You Again (feat. Kali Uchis)",
+      "artist": "Tyler, The Creator"
+    },
+    {
+      "id": "1092027177",
+      "title": "LITE SPOTS",
+      "artist": "KAYTRANADA"
+    },
+    {
+      "id": "1444323011",
+      "title": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+      "artist": "Kali Uchis"
+    },
+    {
+      "id": "1615499233",
+      "title": "Evergreen (You Didn’t Deserve Me At All)",
+      "artist": "Omar Apollo"
+    },
+    {
+      "id": "1207820258",
+      "title": "Dark Red",
+      "artist": "Steve Lacy"
+    },
+    {
+      "id": "1110226862",
+      "title": "Homage",
+      "artist": "Mild High Club"
+    },
+    {
+      "id": "6789834619",
+      "title": "Chamber Of Reflection",
+      "artist": "Mac DeMarco"
+    },
+    {
+      "id": "1719975688",
+      "title": "Show Me How",
+      "artist": "Men I Trust"
+    },
+    {
+      "id": "1893175139",
+      "title": "Sofia",
+      "artist": "Clairo"
+    },
+    {
+      "id": "1436703569",
+      "title": "Cariño",
+      "artist": "The Marías"
+    },
+    {
+      "id": "1657869723",
+      "title": "Good Days",
+      "artist": "SZA"
+    },
+    {
+      "id": "1440766784",
+      "title": "Lost",
+      "artist": "Frank Ocean"
+    },
+    {
+      "id": "1573484420",
+      "title": "WUSYANAME (feat. YoungBoy Never Broke Again & Ty Dolla $ign)",
+      "artist": "Tyler, The Creator"
+    },
+    {
+      "id": "1799080776",
+      "title": "Best Part (feat. H.E.R.)",
+      "artist": "Daniel Caesar"
+    },
+    {
+      "id": "1799080775",
+      "title": "Get You (feat. Kali Uchis)",
+      "artist": "Daniel Caesar"
+    },
+    {
+      "id": "1665312291",
+      "title": "Moonlight",
+      "artist": "Kali Uchis"
+    },
+    {
+      "id": "1146195720",
+      "title": "Nights",
+      "artist": "Frank Ocean"
+    },
+    {
+      "id": "1799080619",
+      "title": "Japanese Denim",
+      "artist": "Daniel Caesar"
+    },
+    {
+      "id": "1147282519",
+      "title": "Location",
+      "artist": "Khalid"
+    },
+    {
+      "id": "1455151648",
+      "title": "Talk (feat. Disclosure)",
+      "artist": "Khalid"
+    },
+    {
+      "id": "1239976603",
+      "title": "Love Galore (feat. Travis Scott)",
+      "artist": "SZA"
+    },
+    {
+      "id": "1184140499",
+      "title": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
+      "artist": "GoldLink"
+    },
+    {
+      "id": "1547500460",
+      "title": "Gravity (feat. Tyler, The Creator)",
+      "artist": "Brent Faiyaz & DJ Dahi"
+    },
+    {
+      "id": "1139258980",
+      "title": "Poison",
+      "artist": "Brent Faiyaz"
+    },
+    {
+      "id": "1440766128",
+      "title": "Thinkin Bout You",
+      "artist": "Frank Ocean"
+    },
+    {
+      "id": "1440872304",
+      "title": "Die For You",
+      "artist": "The Weeknd"
+    },
+    {
+      "id": "1619816360",
+      "title": "Out of Time",
+      "artist": "The Weeknd"
+    },
+    {
+      "id": "1531532767",
+      "title": "Essence (feat. Tems)",
+      "artist": "Wizkid"
+    },
+    {
+      "id": "1571344280",
+      "title": "Damage",
+      "artist": "H.E.R."
+    },
+    {
+      "id": "1294890800",
+      "title": "Focus",
+      "artist": "H.E.R."
+    },
+    {
+      "id": "1611637849",
+      "title": "Leave the Door Open",
+      "artist": "Bruno Mars, Anderson .Paak & Silk Sonic"
+    },
+    {
+      "id": "1799080003",
+      "title": "Streetcar",
+      "artist": "Daniel Caesar"
+    },
+    {
+      "id": "1799080063",
+      "title": "We Find Love",
+      "artist": "Daniel Caesar"
+    },
+    {
+      "id": "1435641901",
+      "title": "Pretty Little Fears (feat. J. Cole)",
+      "artist": "6LACK"
+    },
+    {
+      "id": "1440898306",
+      "title": "PRBLMS",
+      "artist": "6LACK"
+    },
+    {
+      "id": "1496259441",
+      "title": "BEST INTEREST",
+      "artist": "Tyler, The Creator"
+    },
+    {
+      "id": "1463409350",
+      "title": "EARFQUAKE",
+      "artist": "Tyler, The Creator"
+    },
+    {
+      "id": "1728151668",
+      "title": "Garden (Say It Like Dat) [Apple Music Live]",
+      "artist": "SZA"
+    },
+    {
+      "id": "1724865267",
+      "title": "SLOW DANCING IN THE DARK (Mr. Mitch Remix)",
+      "artist": "Joji"
+    },
+    {
+      "id": "1776741889",
+      "title": "Glimpse of Us",
+      "artist": "Joji"
+    },
+    {
+      "id": "547367822",
+      "title": "Adorn",
+      "artist": "Miguel"
+    },
+    {
+      "id": "439618071",
+      "title": "Sure Thing",
+      "artist": "Miguel"
+    },
+    {
+      "id": "1435258133",
+      "title": "Coffee",
+      "artist": "beabadoobee"
+    },
+    {
+      "id": "1453877003",
+      "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+      "artist": "Post Malone & Swae Lee"
+    },
+    {
+      "id": "1477887285",
+      "title": "Circles",
+      "artist": "Post Malone"
+    },
+    {
+      "id": "1440887757",
+      "title": "Congratulations (feat. Quavo)",
+      "artist": "Post Malone"
+    },
+    {
+      "id": "1470523861",
+      "title": "Goodbyes (feat. Young Thug)",
+      "artist": "Post Malone"
+    },
+    {
+      "id": "1445154601",
+      "title": "Best I Ever Had",
+      "artist": "Drake"
+    },
+    {
+      "id": "1440892167",
+      "title": "Passionfruit",
+      "artist": "Drake"
+    },
+    {
+      "id": "1442461355",
+      "title": "Hold On, We're Going Home (feat. Majid Jordan)",
+      "artist": "ドレイク"
+    },
+    {
+      "id": "1814466115",
+      "title": "Feels Like Summer (Mixed)",
+      "artist": "Childish Gambino"
+    },
+    {
+      "id": "636968288",
+      "title": "Get Lucky (feat. Pharrell Williams) [Radio Edit]",
+      "artist": "ダフト・パンク"
+    },
+    {
+      "id": "1233869909",
+      "title": "Slide (feat. Frank Ocean & Migos)",
+      "artist": "Calvin Harris"
+    },
+    {
+      "id": "1324747044",
+      "title": "The Weekend (Funk Wav Remix)",
+      "artist": "SZA & Calvin Harris"
+    },
+    {
+      "id": "1445051482",
+      "title": "Love on the Brain (RY X Remix)",
+      "artist": "Rihanna"
+    },
+    {
+      "id": "1440934096",
+      "title": "Needed Me",
+      "artist": "Rihanna"
+    },
+    {
+      "id": "1662174509",
+      "title": "LOYAL (feat. Drake)",
+      "artist": "PARTYNEXTDOOR"
+    },
+    {
+      "id": "1176303886",
+      "title": "After Dark",
+      "artist": "Mr.Kitty"
+    },
+    {
+      "id": "1747842759",
+      "title": "Pink Skies",
+      "artist": "Zach Bryan"
+    },
+    {
+      "id": "1146195713",
+      "title": "Ivy",
+      "artist": "Frank Ocean"
+    },
+    {
+      "id": "1456218296",
+      "title": "Make It Better (feat. Smokey Robinson)",
+      "artist": "Anderson .Paak"
+    },
+    {
+      "id": "1358286128",
+      "title": "Dead To Me",
+      "artist": "Kali Uchis"
+    },
+    {
+      "id": "1464025342",
+      "title": "N Side",
+      "artist": "Steve Lacy"
+    },
+    {
+      "id": "1593703971",
+      "title": "MERCEDES",
+      "artist": "Brent Faiyaz"
+    },
+    {
+      "id": "1771723604",
+      "title": "Sober",
+      "artist": "Childish Gambino"
+    },
+    {
+      "id": "1477672845",
+      "title": "Could've Been (feat. Bryson Tiller)",
+      "artist": "H.E.R."
+    },
+    {
+      "id": "1388572628",
+      "title": "Hold On",
+      "artist": "The Internet"
+    },
+    {
+      "id": "1743852427",
+      "title": "Love Me Not",
+      "artist": "Ravyn Lenae"
+    },
+    {
+      "id": "1197789431",
+      "title": "Them Changes",
+      "artist": "Thundercat"
+    }
+  ],
+  "duplicateRecordingIDs": {
+    "1657869723": "1546390051",
+    "1453877003": "1445949267"
+  },
+  "regionalReplacements": {}
+}

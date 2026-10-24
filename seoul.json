@@ -1,0 +1,484 @@
+{
+  "id": "seoul",
+  "version": 1,
+  "songs": [
+    {
+      "id": "1445152073",
+      "title": "Instagram",
+      "artist": "DEAN"
+    },
+    {
+      "id": "1422639704",
+      "title": "D (Half Moon) [feat. Gaeko]",
+      "artist": "DEAN"
+    },
+    {
+      "id": "1490544823",
+      "title": "Square (2017)",
+      "artist": "Yerin Baek"
+    },
+    {
+      "id": "1702810042",
+      "title": "Love Lee",
+      "artist": "AKMU"
+    },
+    {
+      "id": "1719869143",
+      "title": "Ditto (250 Remix) [Alternate]",
+      "artist": "NewJeans"
+    },
+    {
+      "id": "1170409098",
+      "title": "11:11",
+      "artist": "TAEYEON"
+    },
+    {
+      "id": "1729547611",
+      "title": "Bam Yang Gang",
+      "artist": "BIBI"
+    },
+    {
+      "id": "1707120678",
+      "title": "Somebody",
+      "artist": "D.O."
+    },
+    {
+      "id": "1606707274",
+      "title": "Maybe if",
+      "artist": "BIBI"
+    },
+    {
+      "id": "1494673344",
+      "title": "Any Song",
+      "artist": "ZICO"
+    },
+    {
+      "id": "1229073406",
+      "title": "Through the Night",
+      "artist": "IU"
+    },
+    {
+      "id": "1229073310",
+      "title": "Palette (feat. G-DRAGON)",
+      "artist": "IU"
+    },
+    {
+      "id": "1610080888",
+      "title": "우산 (feat. Younha)",
+      "artist": "Epik High"
+    },
+    {
+      "id": "1480802550",
+      "title": "How can I love the heartbreak, you're the one I love",
+      "artist": "AKMU"
+    },
+    {
+      "id": "1450778317",
+      "title": "TOMBOY",
+      "artist": "HYUKOH"
+    },
+    {
+      "id": "1322322240",
+      "title": "Jasmine",
+      "artist": "DPR LIVE"
+    },
+    {
+      "id": "1698683954",
+      "title": "Dancing In The Rain",
+      "artist": "Rad Museum"
+    },
+    {
+      "id": "1781856632",
+      "title": "seasons",
+      "artist": "wave to earth"
+    },
+    {
+      "id": "1125891115",
+      "title": "Bye Bye My Blue",
+      "artist": "Yerin Baek"
+    },
+    {
+      "id": "1616649362",
+      "title": "Event Horizon",
+      "artist": "Younha"
+    },
+    {
+      "id": "1614400496",
+      "title": "No Make Up",
+      "artist": "Zion.T"
+    },
+    {
+      "id": "1344700802",
+      "title": "Bath",
+      "artist": "offonoff"
+    },
+    {
+      "id": "1720932878",
+      "title": "Ditto (250 Remix)",
+      "artist": "NewJeans"
+    },
+    {
+      "id": "1636790753",
+      "title": "Hype Boy",
+      "artist": "NewJeans"
+    },
+    {
+      "id": "1711856784",
+      "title": "Super Shy (Mixed)",
+      "artist": "NewJeans"
+    },
+    {
+      "id": "1616804152",
+      "title": "LOVE DIVE",
+      "artist": "IVE"
+    },
+    {
+      "id": "1685789443",
+      "title": "After LIKE (Japanese version)",
+      "artist": "IVE"
+    },
+    {
+      "id": "1736730541",
+      "title": "Magnetic",
+      "artist": "ILLIT"
+    },
+    {
+      "id": "1713266694",
+      "title": "Perfect Night",
+      "artist": "LE SSERAFIM"
+    },
+    {
+      "id": "1684417815",
+      "title": "Eve, Psyche & The Bluebeard’s wife",
+      "artist": "LE SSERAFIM"
+    },
+    {
+      "id": "1762365714",
+      "title": "Cupid",
+      "artist": "FIFTY FIFTY"
+    },
+    {
+      "id": "1340218240",
+      "title": "LOVE SCENARIO",
+      "artist": "iKON"
+    },
+    {
+      "id": "1500041651",
+      "title": "Spring Day",
+      "artist": "BTS"
+    },
+    {
+      "id": "1528831888",
+      "title": "Dynamite",
+      "artist": "BTS"
+    },
+    {
+      "id": "1678046389",
+      "title": "Like Crazy",
+      "artist": "Jimin"
+    },
+    {
+      "id": "1683126583",
+      "title": "Super",
+      "artist": "SEVENTEEN"
+    },
+    {
+      "id": "1533769017",
+      "title": "God's Menu (Japanese Version)",
+      "artist": "Stray Kids"
+    },
+    {
+      "id": "1666844746",
+      "title": "Sugar Rush Ride",
+      "artist": "TOMORROW X TOGETHER"
+    },
+    {
+      "id": "1541265889",
+      "title": "Mmmh",
+      "artist": "KAI"
+    },
+    {
+      "id": "1559839880",
+      "title": "Bambi",
+      "artist": "BAEKHYUN"
+    },
+    {
+      "id": "1584615664",
+      "title": "ONLY",
+      "artist": "LEEHI"
+    },
+    {
+      "id": "1555436861",
+      "title": "Nerves",
+      "artist": "DPR IAN"
+    },
+    {
+      "id": "1569279827",
+      "title": "Stay With Me",
+      "artist": "CHANYEOL & Punch"
+    },
+    {
+      "id": "1738879669",
+      "title": "Dolphin",
+      "artist": "OH MY GIRL"
+    },
+    {
+      "id": "1574308371",
+      "title": "Weekend",
+      "artist": "TAEYEON"
+    },
+    {
+      "id": "1488300934",
+      "title": "Love Poem",
+      "artist": "IU"
+    },
+    {
+      "id": "1511885178",
+      "title": "eight (feat. SUGA)",
+      "artist": "IU"
+    },
+    {
+      "id": "1438614348",
+      "title": "Bbibbi",
+      "artist": "IU"
+    },
+    {
+      "id": "1344721738",
+      "title": "Dance",
+      "artist": "offonoff"
+    },
+    {
+      "id": "6784662334",
+      "title": "TOMBOY",
+      "artist": "i-dle"
+    },
+    {
+      "id": "1540719010",
+      "title": "Blue & Grey",
+      "artist": "BTS"
+    },
+    {
+      "id": "1628282241",
+      "title": "Life Goes On",
+      "artist": "BTS"
+    },
+    {
+      "id": "1582971766",
+      "title": "Butter (Megan Thee Stallion Remix)",
+      "artist": "BTS & ミーガン・ジー・スタリオン"
+    },
+    {
+      "id": "1720933073",
+      "title": "OMG (FRNK Remix)",
+      "artist": "NewJeans"
+    },
+    {
+      "id": "1693493072",
+      "title": "Attention (Mixed)",
+      "artist": "NewJeans"
+    },
+    {
+      "id": "1698275849",
+      "title": "ETA",
+      "artist": "NewJeans"
+    },
+    {
+      "id": "1680047366",
+      "title": "I AM",
+      "artist": "IVE"
+    },
+    {
+      "id": "1709609529",
+      "title": "Baddie",
+      "artist": "IVE"
+    },
+    {
+      "id": "1684417791",
+      "title": "ANTIFRAGILE",
+      "artist": "LE SSERAFIM"
+    },
+    {
+      "id": "1737117266",
+      "title": "Smart",
+      "artist": "LE SSERAFIM"
+    },
+    {
+      "id": "1720474362",
+      "title": "Drama",
+      "artist": "aespa"
+    },
+    {
+      "id": "1745495158",
+      "title": "Supernova",
+      "artist": "aespa"
+    },
+    {
+      "id": "1726888402",
+      "title": "Love wins all",
+      "artist": "IU"
+    },
+    {
+      "id": "1731352614",
+      "title": "Shopper",
+      "artist": "IU"
+    },
+    {
+      "id": "1781865595",
+      "title": "WA-R-R",
+      "artist": "Colde"
+    },
+    {
+      "id": "1569280565",
+      "title": "Beautiful",
+      "artist": "Crush"
+    },
+    {
+      "id": "1570374781",
+      "title": "HOLO",
+      "artist": "LEEHI"
+    },
+    {
+      "id": "1506735199",
+      "title": "Villain",
+      "artist": "Stella Jang"
+    },
+    {
+      "id": "1576694287",
+      "title": "Love Me Like That",
+      "artist": "SAM KIM"
+    },
+    {
+      "id": "1444287172",
+      "title": "Make Up (feat. Crush)",
+      "artist": "SAM KIM"
+    },
+    {
+      "id": "1569744098",
+      "title": "You, Clouds, Rain (feat. Shin Yong Jae)",
+      "artist": "Heize"
+    },
+    {
+      "id": "1569743837",
+      "title": "Don't Know You",
+      "artist": "Heize"
+    },
+    {
+      "id": "1490544509",
+      "title": "Popo (How deep is our love?)",
+      "artist": "Yerin Baek"
+    },
+    {
+      "id": "1490544515",
+      "title": "0310",
+      "artist": "Yerin Baek"
+    },
+    {
+      "id": "1770274550",
+      "title": "love.",
+      "artist": "wave to earth"
+    },
+    {
+      "id": "1770274109",
+      "title": "bad",
+      "artist": "wave to earth"
+    },
+    {
+      "id": "1770274119",
+      "title": "peach eyes",
+      "artist": "wave to earth"
+    },
+    {
+      "id": "1583316702",
+      "title": "For You (feat. Crush)",
+      "artist": "LEEHI"
+    },
+    {
+      "id": "1584615659",
+      "title": "Safety Zone",
+      "artist": "LEEHI"
+    },
+    {
+      "id": "1422639703",
+      "title": "What 2 Do (feat. Crush & Jeff Bernat)",
+      "artist": "DEAN"
+    },
+    {
+      "id": "1787411189",
+      "title": "Restless",
+      "artist": "BIBI"
+    },
+    {
+      "id": "1585079542",
+      "title": "Pado",
+      "artist": "BIBI"
+    },
+    {
+      "id": "1693568884",
+      "title": "Star",
+      "artist": "Colde"
+    },
+    {
+      "id": "1781865601",
+      "title": "Scent",
+      "artist": "Colde"
+    },
+    {
+      "id": "1604898417",
+      "title": "Eat",
+      "artist": "Zion.T"
+    },
+    {
+      "id": "1607289319",
+      "title": "Yanghwa BRDG",
+      "artist": "Zion.T"
+    },
+    {
+      "id": "1572947688",
+      "title": "Rain Song (feat. Colde)",
+      "artist": "Epik High"
+    },
+    {
+      "id": "1581525017",
+      "title": "Lovedrunk (feat. Crush)",
+      "artist": "Epik High"
+    },
+    {
+      "id": "1457283876",
+      "title": "Four Seasons",
+      "artist": "TAEYEON"
+    },
+    {
+      "id": "1717568642",
+      "title": "To. X",
+      "artist": "TAEYEON"
+    },
+    {
+      "id": "1514738807",
+      "title": "Underwater",
+      "artist": "BAEKHYUN"
+    },
+    {
+      "id": "1514738824",
+      "title": "Love Again",
+      "artist": "BAEKHYUN"
+    },
+    {
+      "id": "1456103133",
+      "title": "For Lovers Who Hesitate",
+      "artist": "JANNABI"
+    },
+    {
+      "id": "1539127951",
+      "title": "A Thought on an Autumn Night",
+      "artist": "JANNABI"
+    }
+  ],
+  "duplicateRecordingIDs": {
+    "1719869143": "1720932878"
+  },
+  "regionalReplacements": {
+    "us": {
+      "1720932878": "1719869143"
+    }
+  }
+}
