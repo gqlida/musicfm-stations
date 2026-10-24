@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 1,
-  "updatedAt": "2026-10-24T00:00:00Z",
+  "catalogVersion": 2,
+  "updatedAt": "2026-10-24T08:40:00Z",
   "stations": [
     "ocean",
     "tokyo",

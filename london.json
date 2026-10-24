@@ -1,6 +1,6 @@
 {
   "id": "london",
-  "version": 1,
+  "version": 2,
   "songs": [
     {
       "id": "1850810463",
@@ -203,9 +203,9 @@
       "artist": "The Killers"
     },
     {
-      "id": "1440827492",
-      "title": "Tennessee Whiskey",
-      "artist": "Chris Stapleton"
+      "id": "1620180908",
+      "title": "Breezeblocks",
+      "artist": "alt-J"
     },
     {
       "id": "651880154",
@@ -426,5 +426,9 @@
   "duplicateRecordingIDs": {
     "1440836963": "1440841304"
   },
-  "regionalReplacements": {}
+  "regionalReplacements": {
+    "us": {
+      "1620180908": "558262504"
+    }
+  }
 }
