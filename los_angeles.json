@@ -1,6 +1,6 @@
 {
   "id": "los_angeles",
-  "version": 2,
+  "version": 3,
   "songs": [
     {
       "id": "1546390051",
@@ -243,8 +243,8 @@
       "artist": "SZA"
     },
     {
-      "id": "1724865267",
-      "title": "SLOW DANCING IN THE DARK (Mr. Mitch Remix)",
+      "id": "1724896195",
+      "title": "SLOW DANCING IN THE DARK",
       "artist": "Joji"
     },
     {
@@ -308,9 +308,9 @@
       "artist": "Childish Gambino"
     },
     {
-      "id": "636968288",
-      "title": "Get Lucky (feat. Pharrell Williams) [Radio Edit]",
-      "artist": "ダフト・パンク"
+      "id": "617154366",
+      "title": "Get Lucky",
+      "artist": "Daft Punk, Pharrell Williams & Nile Rodgers"
     },
     {
       "id": "1233869909",
@@ -323,8 +323,8 @@
       "artist": "SZA & Calvin Harris"
     },
     {
-      "id": "1445051482",
-      "title": "Love on the Brain (RY X Remix)",
+      "id": "1440925284",
+      "title": "Love on the Brain",
       "artist": "Rihanna"
     },
     {
